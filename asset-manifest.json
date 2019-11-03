@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vk_pikap_master_vkui_edition/static/css/main.34de6062.chunk.css",
+    "main.js": "/vk_pikap_master_vkui_edition/static/js/main.ee437b36.chunk.js",
+    "main.js.map": "/vk_pikap_master_vkui_edition/static/js/main.ee437b36.chunk.js.map",
+    "runtime-main.js": "/vk_pikap_master_vkui_edition/static/js/runtime-main.5e77a663.js",
+    "runtime-main.js.map": "/vk_pikap_master_vkui_edition/static/js/runtime-main.5e77a663.js.map",
+    "static/css/2.27cde75d.chunk.css": "/vk_pikap_master_vkui_edition/static/css/2.27cde75d.chunk.css",
+    "static/js/2.371c091f.chunk.js": "/vk_pikap_master_vkui_edition/static/js/2.371c091f.chunk.js",
+    "static/js/2.371c091f.chunk.js.map": "/vk_pikap_master_vkui_edition/static/js/2.371c091f.chunk.js.map",
+    "index.html": "/vk_pikap_master_vkui_edition/index.html",
+    "precache-manifest.8b14835e41799bfabe0e453e49dbc2cc.js": "/vk_pikap_master_vkui_edition/precache-manifest.8b14835e41799bfabe0e453e49dbc2cc.js",
+    "service-worker.js": "/vk_pikap_master_vkui_edition/service-worker.js",
+    "static/css/2.27cde75d.chunk.css.map": "/vk_pikap_master_vkui_edition/static/css/2.27cde75d.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/vk_pikap_master_vkui_edition/static/css/main.34de6062.chunk.css.map",
+    "static/media/VcH4TT4bFkw.png": "/vk_pikap_master_vkui_edition/static/media/VcH4TT4bFkw.f9053c3d.png",
+    "static/media/version.txt": "/vk_pikap_master_vkui_edition/static/media/version.d67d8ab4.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e77a663.js",
+    "static/css/2.27cde75d.chunk.css",
+    "static/js/2.371c091f.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.ee437b36.chunk.js"
+  ]
+}
